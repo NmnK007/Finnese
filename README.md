@@ -1,10 +1,12 @@
-# UdyamAI — MSME Financial Health, in real time.
+# UdyamAI — Real-time Financial Intelligence for India's MSMEs
 
 **Submission for IDBI Innovate 2026 · Track 3: MSME Financial Health Card**
 
-> *"Every GST-registered business in India gets a live Health Score. See where you stand with 64 lenders — before you apply."*
+> Every GST-registered MSME deserves to understand its financial health before applying for credit. UdyamAI makes that possible through a continuously updated financial Health Score and actionable insights.
 
-UdyamAI is a **borrower-facing living Health Card** for Indian MSMEs. Every month the MSME sees a 0–1000 score computed from Account Aggregator + GST + UPI + EPFO + ITR feeds, plus the specific quantified actions that will raise it — before they ever file a loan application. On the other side, lenders get a real portfolio dashboard with post-sanction bounce monitoring wired to real bank-statement feeds.
+UdyamAI is a borrower-centric financial intelligence platform designed to help Indian MSMEs understand, monitor, and improve their financial health. By bringing together data from multiple financial sources, the platform generates a 0–1000 Health Score, highlights areas for improvement, and helps businesses make more informed borrowing decisions.
+
+For lenders, UdyamAI provides portfolio-level insights, risk indicators, and transaction-based bounce monitoring to support better-informed lending decisions.
 
 Named after India's official MSME registration ID (Udyam) so bank officers recognise the product on sight; the AI suffix signals the live scoring, real-data retrain, and vernacular explanation layer.
 
